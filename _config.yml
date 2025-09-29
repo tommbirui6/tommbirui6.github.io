@@ -35,13 +35,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Tom Mbirui Muriuki
-  email: tommbirui6@gmail.com # change to your email address
+  email: tommbirui6@gmail.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/mbiruitom # change to your Twitter homepage
-    - https://github.com/tommbirui6 # change to your GitHub homepage
-    # Uncomment below to add more social links
-    https://www.facebook.com/username
+    - https://twitter.com/mbiruitom
+    - https://github.com/tommbirui6 
+    # - https://www.facebook.com/username
     
     # Site Verification Settings
 webmaster_verifications:
