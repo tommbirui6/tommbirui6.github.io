@@ -11,7 +11,7 @@ theme: jekyll-theme-chirpy
 
 author:
   name: "Tom Mbiru"
-  email: "your-email@example.com"
+  email: "tommbiru@example.com"   # <-- replace with your real email
   url: "https://tommbirui6.github.io"
 
 github:
@@ -19,10 +19,10 @@ github:
 
 social:
   name: "Tom Mbiru"
-  email: "your-email@example.com"
+  email: "tommbiru@example.com"   # <-- same here
   links:
     - https://github.com/tommbirui6
-    - https://linkedin.com/in/your-linkedin-username  # Optional
+    - https://linkedin.com/in/tommbiru   # <-- replace with your LinkedIn handle
 
 markdown: kramdown
 highlighter: rouge
@@ -35,8 +35,6 @@ plugins:
   - jekyll-seo-tag
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - node_modules
   - vendor
   - README.md
@@ -47,6 +45,7 @@ defaults:
       type: posts
     values:
       layout: post
-      author: "Tom Mbirui"
+      author: "Tom Mbiru"
+
 
   
