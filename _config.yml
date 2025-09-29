@@ -1,8 +1,8 @@
 title: "tommbirui6"
 tagline: "Personal Portfolio and Blog"
 description: "Welcome to my personal website"
-url: "https://tommbirui6.github.io"  # No trailing slash
-baseurl: ""  # Keep this empty for user.github.io repo
+url: "https://tommbirui6.github.io"  # Don't include a trailing slash
+baseurl: ""  # Keep this empty for user.github.io sites
 
 lang: "en"
 timezone: "Africa/Nairobi"
@@ -17,30 +17,22 @@ author:
 github:
   username: tommbirui6
 
-twitter:
-  username: your_twitter_handle  # Optional
-
 social:
   name: "Tom Mbiru"
   email: "your-email@example.com"
   links:
     - https://github.com/tommbirui6
-    - https://linkedin.com/in/your-linkedin  # Optional
-
-paginate: 5
-paginate_path: /page:num/
+    - https://linkedin.com/in/your-linkedin-username  # Optional
 
 markdown: kramdown
 highlighter: rouge
 
+paginate: 5
+paginate_path: "/page:num/"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Optional: Google Analytics, Disqus, etc.
-# google_analytics:
-# disqus:
-#   shortname: your-disqus-shortname
 
 exclude:
   - Gemfile
@@ -55,4 +47,4 @@ defaults:
       type: posts
     values:
       layout: post
-      author: "Tom Mbirui"
+      author: "Tom Mbiru"
