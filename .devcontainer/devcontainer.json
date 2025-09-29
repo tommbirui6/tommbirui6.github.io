@@ -25,6 +25,7 @@
         "mhutchie.git-graph"
       ]bundle exec jekyll build
 
-    }
+    }bundle exec jekyll serve --livereload
+
   }
 }
