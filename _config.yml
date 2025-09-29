@@ -14,35 +14,35 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Tom Mbirui Blogs # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Data Science Blogs|AI|ML|DL|Data Analysis # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+ My Data Science,AI,Ml,and DL Journey. A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://tommbirui6.github.io"
 
-github:
+github:tommbirui6
   username: github_username # change to your GitHub username
 
-twitter:
+twitter:MbiruiTom
   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Tom Mbirui Muriuki
+  email: tommbirui6@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/mbiruitom # change to your Twitter homepage
+    - https://github.com/tommbirui6 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/tommuriuki
 
 # Site Verification Settings
 webmaster_verifications:
