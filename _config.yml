@@ -47,4 +47,6 @@ defaults:
       type: posts
     values:
       layout: post
-      author: "Tom Mbiru"
+      author: "Tom Mbirui"
+      plugins:
+  
