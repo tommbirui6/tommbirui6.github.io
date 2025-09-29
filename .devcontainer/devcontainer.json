@@ -23,7 +23,8 @@
         "yzhang.markdown-all-in-one",
         // Git
         "mhutchie.git-graph"
-      ]
+      ]bundle exec jekyll build
+
     }
   }
 }
